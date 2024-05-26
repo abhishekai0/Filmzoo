@@ -1,6 +1,6 @@
 # Filmzoo
 
-Filmzoo is an innovative online platform created by DarkCoder that revolutionizes the way people discover and engage with films. With its sleek design and user-friendly interface, Filmzoo aims to provide users with a seamless and enjoyable movie-watching experience.
+Filmzoo is an innovative online platform created by DarkCoder (Abhishek Kumar) that revolutionizes the way people discover and engage with films. With its sleek design and user-friendly interface, Filmzoo aims to provide users with a seamless and enjoyable movie-watching experience.
 
 ## Features
 
@@ -18,12 +18,16 @@ Filmzoo is an innovative online platform created by DarkCoder that revolutionize
 
 Ready to dive into the world of cinema? Sign up for a free account on Filmzoo today and start discovering your next favorite movie!
 
-## About DarkCoder
+## About DarkCoder (Abhishek Kumar)
 
-DarkCoder is a passionate developer with a vision to create innovative solutions that enhance people's lives. Filmzoo is just one example of DarkCoder's dedication to building user-centric platforms that deliver exceptional value to users worldwide.
+DarkCoder, also known as Abhishek Kumar, is a passionate developer with a vision to create innovative solutions that enhance people's lives. With years of experience in software development and a deep love for cinema, Abhishek founded Filmzoo to combine his technical expertise with his passion for movies. His dedication to building user-centric platforms is reflected in every aspect of Filmzoo, making it a go-to destination for film enthusiasts worldwide.
+
+**Contact Information:**
+- **Name:** Abhishek Kumar (DarkCoder)
+- **Email:** kumarabhishek44279@gmail.com
 
 ## Feedback and Support
 
-We value your feedback! If you have any suggestions, questions, or encounter any issues while using Filmzoo, please don't hesitate to reach out to us. Our support team is here to assist you and ensure that your Filmzoo experience is nothing short of amazing.
+We value your feedback! If you have any suggestions, questions, or encounter any issues while using Filmzoo, please don't hesitate to reach out to us. Our support team, led by Abhishek Kumar, is here to assist you and ensure that your Filmzoo experience is nothing short of amazing.
 
 Thank you for choosing Filmzoo - Your ultimate destination for all things cinema!
